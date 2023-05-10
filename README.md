@@ -1,2 +1,2 @@
-# Thahir-portfolio.github.io
+# ThahiR - Portfolio.github.io
 Know me
